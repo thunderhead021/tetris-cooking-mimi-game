@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ingredient
+  - Inventory
+  - IngredientChild
+  - GameBoard
+  - Up
+  - Down
+  - Left
+  - Right
+  - Bitter
+  - Salty
+  - Sour
+  - Special
+  - Spicy
+  - Sweet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Gameobject
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 881665373
+    locked: 0
+  - name: Forground
+    uniqueID: 2564141223
+    locked: 0
